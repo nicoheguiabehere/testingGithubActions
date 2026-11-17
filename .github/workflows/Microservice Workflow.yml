@@ -1,4 +1,4 @@
-name: Microservice Workflow
+name: Microservice Workflow python
 on:
   pull_request:
     types:
